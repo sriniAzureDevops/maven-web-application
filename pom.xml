@@ -97,15 +97,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>srini</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://18.191.251.214:9980/repository/walmart-realease/</url>
+	      <url>http://18.191.251.214:9980/srinisoftware/repository/walmart-realease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>srini</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.191.251.214:9980/repository/walmart-snapshot/</url>
+	      <url>http://18.191.251.214:9980/srinisoftware/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
